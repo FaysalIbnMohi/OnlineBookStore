@@ -1,0 +1,37 @@
+c:\users\faisal\documents\visual studio 2010\Projects\onlineBookStore\onlineBookStore\bin\Debug\onlineBookStore.exe
+c:\users\faisal\documents\visual studio 2010\Projects\onlineBookStore\onlineBookStore\bin\Debug\onlineBookStore.pdb
+c:\users\faisal\documents\visual studio 2010\Projects\onlineBookStore\onlineBookStore\obj\x86\Debug\onlineBookStore.Properties.Resources.resources
+c:\users\faisal\documents\visual studio 2010\Projects\onlineBookStore\onlineBookStore\obj\x86\Debug\onlineBookStore.csproj.GenerateResource.Cache
+c:\users\faisal\documents\visual studio 2010\Projects\onlineBookStore\onlineBookStore\obj\x86\Debug\onlineBookStore.exe
+c:\users\faisal\documents\visual studio 2010\Projects\onlineBookStore\onlineBookStore\obj\x86\Debug\onlineBookStore.pdb
+C:\Users\Faisal\Documents\Visual Studio 2010\Projects\onlineBookStore\onlineBookStore\obj\x86\Debug\onlineBookStore.logInForm.resources
+C:\Users\Faisal\Documents\Visual Studio 2010\Projects\onlineBookStore\onlineBookStore\obj\x86\Debug\onlineBookStore.SignUpLbl.resources
+C:\Users\Faisal\Documents\Visual Studio 2010\Projects\onlineBookStore\onlineBookStore\obj\x86\Debug\onlineBookStore.adminForm.resources
+C:\Users\Faisal\Documents\Visual Studio 2010\Projects\onlineBookStore\onlineBookStore\obj\x86\Debug\onlineBookStore.userForm.resources
+C:\Users\Faisal\documents\visual studio 2010\Projects\onlineBookStore\onlineBookStore\bin\Debug\onlineBookStore.exe.config
+C:\Users\Faisal\documents\visual studio 2010\Projects\onlineBookStore\onlineBookStore\bin\Debug\MyDatabase#1.sdf
+C:\Users\Faisal\documents\visual studio 2010\Projects\onlineBookStore\onlineBookStore\bin\Debug\_MyDatabase_1DataSet.Designer.cs
+C:\Users\Faisal\documents\visual studio 2010\Projects\onlineBookStore\onlineBookStore\bin\Debug\_MyDatabase_1DataSet.xsc
+C:\Users\Faisal\documents\visual studio 2010\Projects\onlineBookStore\onlineBookStore\bin\Debug\_MyDatabase_1DataSet.xsd
+C:\Users\Faisal\documents\visual studio 2010\Projects\onlineBookStore\onlineBookStore\bin\Debug\_MyDatabase_1DataSet.xss
+C:\Users\Faisal\documents\visual studio 2010\Projects\onlineBookStore\onlineBookStore\obj\x86\Debug\onlineBookStore.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\onlineBookStore\onlineBookStore\bin\Debug\onlineBookStore.exe
+C:\Users\User\Desktop\onlineBookStore\onlineBookStore\bin\Debug\onlineBookStore.exe.config
+C:\Users\User\Desktop\onlineBookStore\onlineBookStore\obj\x86\Debug\onlineBookStore.adminForm.resources
+C:\Users\User\Desktop\onlineBookStore\onlineBookStore\obj\x86\Debug\onlineBookStore.formAdd.resources
+C:\Users\User\Desktop\onlineBookStore\onlineBookStore\obj\x86\Debug\onlineBookStore.formBookList.resources
+C:\Users\User\Desktop\onlineBookStore\onlineBookStore\obj\x86\Debug\onlineBookStore.formRemoveBook.resources
+C:\Users\User\Desktop\onlineBookStore\onlineBookStore\obj\x86\Debug\onlineBookStore.formRemoveUser.resources
+C:\Users\User\Desktop\onlineBookStore\onlineBookStore\obj\x86\Debug\onlineBookStore.formRequest.resources
+C:\Users\User\Desktop\onlineBookStore\onlineBookStore\obj\x86\Debug\onlineBookStore.formUpdateBook.resources
+C:\Users\User\Desktop\onlineBookStore\onlineBookStore\obj\x86\Debug\onlineBookStore.logInForm.resources
+C:\Users\User\Desktop\onlineBookStore\onlineBookStore\obj\x86\Debug\onlineBookStore.Order.resources
+C:\Users\User\Desktop\onlineBookStore\onlineBookStore\obj\x86\Debug\onlineBookStore.Properties.Resources.resources
+C:\Users\User\Desktop\onlineBookStore\onlineBookStore\obj\x86\Debug\onlineBookStore.SignUpLbl.resources
+C:\Users\User\Desktop\onlineBookStore\onlineBookStore\obj\x86\Debug\onlineBookStore.userForm.resources
+C:\Users\User\Desktop\onlineBookStore\onlineBookStore\obj\x86\Debug\onlineBookStore.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\onlineBookStore\onlineBookStore\obj\x86\Debug\onlineBookStore.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\onlineBookStore\onlineBookStore\obj\x86\Debug\onlineBookStore.exe
+C:\Users\User\Desktop\onlineBookStore\onlineBookStore\obj\x86\Debug\onlineBookStore.pdb
+C:\Users\User\Desktop\onlineBookStore\onlineBookStore\bin\Debug\onlineBookStore.pdb
+C:\Users\User\Desktop\onlineBookStore\onlineBookStore\obj\x86\Debug\onlineBookStore.formShowRequest.resources
